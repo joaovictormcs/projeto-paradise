@@ -1,0 +1,34 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-color: #0B122C;
+}
+#logo{
+    display: flex;
+    justify-content: space-evenly;
+}
+#logo>img{
+    width: 250px;
+    height: 200px;
+}
+nav{
+    background-color: #1f3277;
+    font: normal 15pt Verdana;
+}
+nav>a{
+    text-decoration: none;
+    text-shadow: 2px 2px 2px black;
+
+}
+a:link{
+    color:white;
+}
+a:visited{
+    color: white;
+}
+a:hover{
+    background-color: aliceblue;
+    border-radius: 6px;
+    color:rgb(0, 0, 0);
+}
