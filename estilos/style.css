@@ -84,6 +84,7 @@ article.destaque > img{
 }
 article > p{
     text-align: justify;
+    padding: 1px 10px;
 }
 footer{
     background-color: white;
